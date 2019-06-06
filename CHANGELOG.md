@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.5.0 - 2019-06-06
+
+- Feature: add per upload field storage engine support
+
 ## 1.4.1 - 2018-10-11
 
 - Bugfix: Make sure that req.file.buffer always is a Buffer
